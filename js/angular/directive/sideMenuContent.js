@@ -11,7 +11,7 @@
  *
  * @usage
  * ```html
- * <ion-side-menu-content
+ * <ion-side-menu-content>
  *   edge-drag-threshold="true"
  *   drag-content="true">
  * </ion-side-menu-content>
